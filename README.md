@@ -2,7 +2,7 @@
 ### Trabalho da disciplina de Programação – BICT / UFMA
 
 Este projeto consiste em uma implementação simples do jogo **Campo Minado**, desenvolvida em **Python** utilizando a biblioteca **Tkinter** como interface gráfica.  
-O objetivo é exercitar os conceitos fundamentais da disciplina de Programação do **Bacharelado Interdisciplinar em Ciência e Tecnologia (BICT)** da **Universidade Federal do Maranhão (UFMA)**, aplicando lógica, estruturas condicionais, eventos, funções e manipulação de GUI.
+O objetivo é exercitar os conceitos fundamentais da disciplina de Fundamentos da Computação (CT) do **Bacharelado Interdisciplinar em Ciência e Tecnologia (BICT)** da **Universidade Federal do Maranhão (UFMA)**, aplicando lógica, estruturas condicionais, eventos, funções e manipulação de GUI.
 
 ---
 
