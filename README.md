@@ -158,6 +158,35 @@ Centraliza toda a lógica do jogo e a interface gráfica.
 
 ---
 
+## 📝 Versão Inicial em Modo Texto (CLI)
+
+Além da versão principal com interface gráfica em Tkinter, o projeto também inclui um arquivo chamado **`campominado_cmd.py`**, que representa a **primeira versão do jogo**, desenvolvida inteiramente no terminal (CLI – Command Line Interface).
+
+Essa versão foi criada como **protótipo inicial** para testar a lógica do jogo antes da implementação da interface gráfica. Ela funciona diretamente no console e utiliza:
+
+- Impressão do tabuleiro em modo texto  
+- Entrada de linha e coluna pelo teclado  
+- Limpeza de tela via `os.system()`  
+- Pontuação acumulada  
+- Sistema de recorde  
+- Mensagens de derrota e reinício  
+- Geração de bombas e áreas seguras de forma aleatória
+
+Essa implementação foi essencial para validar:
+
+- Estrutura do campo  
+- Regras de explosão  
+- Sistema de pontuação  
+- Loop principal da partida  
+
+A versão atual em Tkinter mantém a lógica central inspirada nesse protótipo, porém acrescenta elementos visuais, eventos gráficos e uma experiência de jogo mais amigável.
+
+O código completo da versão CLI está disponível no arquivo:
+
+```bash
+python campominado_cmd.py
+```
+
 ## 📚 Instituição
 
 **Universidade Federal do Maranhão – UFMA**  
